@@ -3,4 +3,4 @@ livekit-plugins-openai>=0.8.1
 livekit-plugins-silero>=0.6.4
 python-dotenv~=1.0
 
-# Run link : https://agents-playground.livekit.io/#cam=1&mic=1&video=1&audio=1&chat=1&theme_color=cyan
+# Link to frontend (connect)  : https://agents-playground.livekit.io/#cam=1&mic=1&video=1&audio=1&chat=1&theme_color=cyan
