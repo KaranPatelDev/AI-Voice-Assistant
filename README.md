@@ -1,9 +1,9 @@
-#AI Voice Assistant
+# AI Voice Assistant
 
-##🚀 Introduction
+## 🚀 Introduction
 Welcome to the AI Voice Assistant project! This repository contains the code and resources for building a powerful and intelligent web-based voice assistant using LiveKit and OpenAI API.
 
-##🌟 Features
+## 🌟 Features
 Natural Language Processing (NLP): Understands and processes human language using OpenAI’s powerful models.
 Voice Recognition: Converts spoken language into text.
 Text-to-Speech (TTS): Converts text responses back into speech.
@@ -12,7 +12,7 @@ Web Integration: Seamlessly integrates with web applications using LiveKit.
 API Integration: Connects with various APIs for extended functionalities.
 
 
-##🛠️ Installation
+## 🛠️ Installation
 Clone the repository:
 ```
 git clone https://github.com/your-username/AI-Voice-Assistant.git
@@ -32,7 +32,7 @@ Run the application:
 ```
 python main.py start
 ```
-##📚 Usage
+## 📚 Usage
 Start the assistant:
 ```markdown
 python main.py
@@ -42,11 +42,12 @@ Give voice commands:
 “What’s the weather like today?”
 “Set a reminder for my meeting at 3 PM.”
 “Play some music.”
-🤝 Contributing
+
+## 🤝 Contributing
 We welcome contributions! Please read our Contributing Guidelines for more details.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-📧 Contact
+## 📧 Contact
 For any inquiries or feedback, please reach out to us at your- mpkaranpatel001018@gmail.com
